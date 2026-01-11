@@ -1,2 +1,14 @@
-# Portfolio
-Personal portfolio website built with HTML. Currently a static version, designed to be scalable and upgraded with CSS, JavaScript, and modern frameworks in the future. This repo will evolve as I learn and experiment with new web technologies.
+
+## 🚀 Portfolio Website
+
+This is my personal portfolio website.
+Currently built using pure HTML.
+
+### 🔮 Future Plans
+- Add CSS for responsive design
+- Add JavaScript for interactivity
+- Possibly migrate to React / Next.js
+- Improve accessibility & performance
+
+### 📌 Status
+🚧 Work in progress – continuously evolving.
